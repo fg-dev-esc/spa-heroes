@@ -185,3 +185,10 @@ export const useForm = (initialForm = {}) => {
 6. Mantener búsquedas en la URL
 7. UI condicional
 8. Componentes reutilizables
+
+---
+ Desarrollado por:  
+## Luis Felipe Fernández  
+
+
+*© 2025 ESCOTEL® - Todos los derechos reservados*
